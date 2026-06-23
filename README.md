@@ -50,7 +50,7 @@ If you modify your source code facts or rules in your external editor, reload th
 ```bash
 make.
 ```
-* To exit the active SWI-Prolog interactive process, type halt..
+* To exit the active SWI-Prolog interactive process, type `halt.`.
 
 ## 🔧 Core Tech Stack
 * Language Platform: Prolog (ISO Standard)
